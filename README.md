@@ -14,6 +14,10 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <a href="https://stackoverflow.com/users/5152480">
 <img src="https://img.shields.io/badge/Stack%20Overflow-788-F47F24">
 </a>
+<a href="https://discord.com/users/braulio_ti">
+<img src="https://img.shields.io/badge/Discord-6263f0?style=flat&logo=discord&label=braulio_ti&logoColor=white">
+</a>
+
 
 ### 🚀 Languages and Tools:
 
