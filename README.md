@@ -11,12 +11,8 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <a href="https://www.linkedin.com/in/brauliofp/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.brau.io/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=flat&logo=wordpress&label=brau.io&logoColor=white"/></a>
 [![GitHub followers](https://img.shields.io/github/followers/braulioti.svg?style=social&label=Follow)](https://github.com/braulioti?tab=followers)
-<a href="https://stackoverflow.com/users/5152480">
-<img src="https://img.shields.io/badge/Stack%20Overflow-788-F47F24">
-</a>
-<a href="https://discord.com/users/braulio_ti">
-<img src="https://img.shields.io/badge/Discord-6263f0?style=flat&logo=discord&label=braulio_ti&logoColor=white">
-</a>
+<a href="https://stackoverflow.com/users/5152480"><img src="https://img.shields.io/badge/Stack%20Overflow-788-F47F24"></a>
+<a href="https://discord.com/users/braulio_ti"><img src="https://img.shields.io/badge/Discord-6263f0?style=flat&logo=discord&label=braulio_ti&logoColor=white"></a>
 
 
 ### 🚀 Languages and Tools:
