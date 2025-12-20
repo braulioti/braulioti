@@ -54,4 +54,11 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/git.svg" title="GIT" alt="GIT" />
 </p>
 
+---
+
+### 🧰 Useful Repositories:
+
+[**Assets**](https://github.com/braulioti/braulioti/tree/main/assets): 
+Interesting links, basic project structure, icons, prompts. Some useful tools to get your projects started.
+
 
