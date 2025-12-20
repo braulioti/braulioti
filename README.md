@@ -56,9 +56,6 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 
 ---
 
-### 🧰 Useful Repositories:
 
-[**Assets**](https://github.com/braulioti/assets): 
-Interesting links, basic project structure, icons, prompts. Some useful tools to get your projects started.
 
 
