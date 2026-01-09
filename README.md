@@ -59,6 +59,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/postman.svg" title="Postman" alt="Postman" />
 <img height="25" src="svg/swagger.svg" title="Swagger" alt="Swagger" />
 <img height="25" src="svg/git.svg" title="GIT" alt="GIT" />
+<img height="25" src="svg/gitlab.svg" title="Gitlab" alt="Gitlab" />
 </p>
 
 ---
