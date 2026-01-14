@@ -60,6 +60,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/swagger.svg" title="Swagger" alt="Swagger" />
 <img height="25" src="svg/git.svg" title="GIT" alt="GIT" />
 <img height="25" src="svg/gitlab.svg" title="Gitlab" alt="Gitlab" />
+<img height="25" src="webp/spec-kit.webp" title="SpecKit" alt="SpecKit" />
 </p>
 
 ---
