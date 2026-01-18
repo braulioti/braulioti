@@ -43,6 +43,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/hibernate.svg" title="Hibernate" alt="Hibernate" />
 <img height="25" src="svg/python.svg" title="Python" alt="Python" />
 <img height="25" src="svg/flask.svg" title="Flask" alt="Flask" />
+<img height="25" src="svg/c++.svg" title="C++" alt="C++" />
 <img height="25" src="svg/mariadb.svg" title="MariaDB" alt="MariaDB" />
 <img height="25" src="svg/mysql.svg" title="MySQL" alt="MySQL" />
 <img height="25" src="svg/mongodb.svg" title="MongoDB" alt="MongoDB" />
@@ -60,7 +61,6 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/swagger.svg" title="Swagger" alt="Swagger" />
 <img height="25" src="svg/git.svg" title="GIT" alt="GIT" />
 <img height="25" src="svg/gitlab.svg" title="Gitlab" alt="Gitlab" />
-<img height="25" src="webp/spec-kit.webp" title="SpecKit" alt="SpecKit" />
 </p>
 
 ---
