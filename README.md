@@ -26,6 +26,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 ### 🚀 Languages and Tools:
 
 <p align="left">
+<img height="25" src="svg/aws.svg" title="Amazon AWS" alt="Amazon AWS" />
 <img height="25" src="svg/javascript-original.svg" title="Javascript" alt="Javascript" />
 <img height="25" src="svg/typescript-icon.svg" title="Typescript" alt="Typescript" />
 <img height="25" src="svg/angularjs-original.svg" title="Angular" alt="Angular" />
