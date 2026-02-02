@@ -39,6 +39,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/php.svg" title="PHP" alt="NestJS" />
 <img height="25" src="svg/java-icon.svg" title="Java" alt="Java" />
 <img height="25" src="svg/maven.svg" title="Maven" alt="Maven" />
+<img height="25" src="svg/nexus.svg" title="Nexus" alt="Nexus" />
 <img height="25" src="svg/spring.svg" title="Spring" alt="Spring" />
 <img height="25" src="svg/hibernate.svg" title="Hibernate" alt="Hibernate" />
 <img height="25" src="svg/python.svg" title="Python" alt="Python" />
