@@ -70,6 +70,12 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 
 ---
 
+## Projects
+
+### [Template builder](https://templatebuilder.brau.io)
+Template Builder is a CLI tool that allows users to create custom project templates from YAML configuration files. The tool generates ready-made project structures by creating folders, generating files, and collecting user input through interactive CLI prompts defined in YAML files.
+
+---
 
 
 
