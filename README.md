@@ -66,6 +66,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/intellij.svg" title="IntelliJ" alt="IntelliJ" />
 <img height="25" src="svg/youtrack.svg" title="YouTrack" alt="YouTrack" />
 <img height="25" src="svg/clion.svg" title="CLion" alt="CLion" />
+<img height="25" src="png/data-integration.png" title="Pentaho Data Integration" alt="Pentaho Data Integration" />
 </p>
 
 ---
