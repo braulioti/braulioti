@@ -69,6 +69,12 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="png/data-integration.png" title="Pentaho Data Integration" alt="Pentaho Data Integration" />
 </p>
 
+### 📜 Certifications:
+
+<p align="left">
+<img height="100" src="certifications/data-streaming-engineer-foundations.png" title="Confluent Data Streaming Engineer Foundations Certificate" alt="Confluent Data Streaming Engineer Foundations Certificate" />
+</p>
+
 ---
 
 ## Projects
