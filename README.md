@@ -52,6 +52,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/oracle.svg" title="Oracle" alt="Oracle" />
 <img height="25" src="svg/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server" />
 <img height="25" src="svg/rabbitmq.svg" title="Rabbit MQ" alt="Rabbit MQ" />
+<img height="25" src="svg/kafka.svg" title="Kafka" alt="Kafka" />
 <img height="25" src="svg/linux.svg" title="Linux" alt="Linux" />
 <img height="25" src="svg/centos.svg" title="Centos" alt="Centos" />
 <img height="25" src="svg/jenkins.svg" title="Jenkins" alt="Jenkins" />
