@@ -52,6 +52,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/oracle.svg" title="Oracle" alt="Oracle" />
 <img height="25" src="svg/microsoft-sql-server.svg" title="SQL Server" alt="SQL Server" />
 <img height="25" src="svg/rabbitmq.svg" title="Rabbit MQ" alt="Rabbit MQ" />
+<img height="25" src="svg/kafka.svg" title="Kafka" alt="Kafka" />
 <img height="25" src="svg/linux.svg" title="Linux" alt="Linux" />
 <img height="25" src="svg/centos.svg" title="Centos" alt="Centos" />
 <img height="25" src="svg/jenkins.svg" title="Jenkins" alt="Jenkins" />
@@ -68,6 +69,12 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/youtrack.svg" title="YouTrack" alt="YouTrack" />
 <img height="25" src="svg/clion.svg" title="CLion" alt="CLion" />
 <img height="25" src="png/data-integration.png" title="Pentaho Data Integration" alt="Pentaho Data Integration" />
+</p>
+
+### 📜 Certifications:
+
+<p align="left">
+<img height="100" src="certifications/data-streaming-engineer-foundations.png" title="Confluent Data Streaming Engineer Foundations Certificate" alt="Confluent Data Streaming Engineer Foundations Certificate" />
 </p>
 
 ---
