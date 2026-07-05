@@ -62,6 +62,7 @@ I have been a programmer for over 27 years, driven by curiosity and a constant s
 <img height="25" src="svg/swagger.svg" title="Swagger" alt="Swagger" />
 <img height="25" src="svg/git.svg" title="GIT" alt="GIT" />
 <img height="25" src="svg/gitlab.svg" title="Gitlab" alt="Gitlab" />
+<img height="25" src="svg/terraform.svg" title="Terraform" alt="Terraform" />
 <img height="25" src="svg/aws.svg" title="Amazon AWS" alt="Amazon AWS" />
 <img height="25" src="svg/intellij.svg" title="IntelliJ" alt="IntelliJ" />
 <img height="25" src="svg/youtrack.svg" title="YouTrack" alt="YouTrack" />
